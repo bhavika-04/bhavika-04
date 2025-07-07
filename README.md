@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋Hi, I'm Bhavika! 
 
-<!--
-**bhavika-04/bhavika-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior at the University of Maryland, studying Computer Science
 
-Here are some ideas to get you started:
+I'm really passionate about using machine learning and data science to solve real-world problems, especially those related to environmental science and sustainability! In the future, I hope to utilize technology to gain deeper insights into how we can adapt to and mitigate the impacts of climate change. Currently, I am focusing on developing my skills and knowledge through the Break Through Tech AI/ML Program, where I will be gaining hands-on experience working on an industry project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects:
+[Analyzing Impact of Rebates on EV Adoption](https://github.com/umdfiresa2024/research-go-green)
+- Research project as part of the UMD FIRE Program (Sustainability Analytics stream)
+
+[TerpLocal](https://github.com/Cadoodlii/TerpLocal) 
+- Created a website prototype designed to connect college students with local businesses, fostering career development opportunities and strengthening community engagement
+
+## 🛠 Tech Stack:
+Programming Languages: Python, Java, R, C, OCaml, Rust
+Data Science: Pandas, NumPy, scikit-learn, PySpark, Databricks
+Web Dev: HTML, CSS, JavaScript, Express.js, Node.js, React
+Tools: Git, GitHub, Jupyter Notebooks
+Databases: SQL, MongoDB
+ 
+## 📫 How to Reach Me:
+Email: bsbuddi2014@gmail.com
+LinkedIn: www.linkedin.com/in/bhavika-buddi
+
