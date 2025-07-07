@@ -12,11 +12,11 @@ I'm really passionate about using machine learning and data science to solve rea
 - Created a website prototype designed to connect college students with local businesses, fostering career development opportunities and strengthening community engagement
 
 ## 🛠 Tech Stack:
-Programming Languages: Python, Java, R, C, OCaml, Rust
-Data Science: Pandas, NumPy, scikit-learn, PySpark, Databricks
-Web Dev: HTML, CSS, JavaScript, Express.js, Node.js, React
-Tools: Git, GitHub, Jupyter Notebooks
-Databases: SQL, MongoDB
+- Programming Languages: Python, Java, R, C, OCaml, Rust
+- Data Science: Pandas, NumPy, scikit-learn, PySpark, Databricks
+- Web Dev: HTML, CSS, JavaScript, Express.js, Node.js, React
+- Tools: Git, GitHub, Jupyter Notebooks
+- Databases: SQL, MongoDB
  
 ## 📫 How to Reach Me:
 Email: bsbuddi2014@gmail.com
