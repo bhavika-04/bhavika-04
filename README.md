@@ -5,10 +5,13 @@
 I'm really passionate about using machine learning and data science to solve real-world problems, especially those related to environmental science and sustainability! In the future, I hope to utilize technology to gain deeper insights into how we can adapt to and mitigate the impacts of climate change. Currently, I am focusing on developing my skills and knowledge through the Break Through Tech AI/ML Program, where I will be gaining hands-on experience working on an industry project.
 
 ## 🚀 Projects:
-[Analyzing Impact of Rebates on EV Adoption](https://github.com/umdfiresa2024/research-go-green)
+[image-classification-project](https://github.com/Halicefalcao/Verizon_1B_Project)
+- Utilized image classification to identify birds and bird nests on cell towers, under the mentorship of Verizon as part of the BTT AI Program
+
+[ev-rebate-analysis](https://github.com/umdfiresa2024/research-go-green)
 - Research project as part of the UMD FIRE Program (Sustainability Analytics stream)
 
-[TerpLocal](https://github.com/Cadoodlii/TerpLocal) 
+[TerpLocal-web-development](https://github.com/Cadoodlii/TerpLocal) 
 - Created a website prototype designed to connect college students with local businesses, fostering career development opportunities and strengthening community engagement
 
 ## 🛠 Tech Stack:
